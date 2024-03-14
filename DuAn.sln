@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuAn", "DuAn\DuAn.csproj", "{055ABE00-2E8F-4320-A69C-15DCBC78595F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055ABE00-2E8F-4320-A69C-15DCBC78595F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055ABE00-2E8F-4320-A69C-15DCBC78595F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055ABE00-2E8F-4320-A69C-15DCBC78595F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055ABE00-2E8F-4320-A69C-15DCBC78595F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32F14F1-0F40-4BB2-8F74-D8764054B214}
+	EndGlobalSection
+EndGlobal
